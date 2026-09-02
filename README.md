@@ -4,14 +4,6 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3"
-    width="100%"
-  />
-</p>
-
-
-<p align="center">
-  <img
     src="https://raw.githubusercontent.com/SARAR-creation/SARAR-creation/main/profile-intro.svg"
     width="100%"
     alt="S M Sarar Sakib Introduction"
