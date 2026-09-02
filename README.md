@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <b>Building • Learning • Creating 🚀</b>
+  <b>Learning • Building • Creating 🚀</b>
 </p>
 
 <p align="center">
