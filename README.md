@@ -11,36 +11,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+there%21+%F0%9F%91%8B+I%27m+S+M+SARAR+SAKIB"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&height=80&lines=Hi+there%21+%F0%9F%91%8B;I%27m+S+M+SARAR+SAKIB;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%94%AC+Researcher;%F0%9F%93%9A+A+Philomath;%F0%9F%8E%AF+Jack+of+All+Trades"
+    alt="S M Sarar Sakib Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%9A%80+Aspiring+Software+Engineer;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8E%93+Computer+Science+Student"
-    alt="Typing SVG"
-  />
+  <b>Building • Learning • Exploring 🚀</b>
 </p>
-
-<p align="center">
-  <b>Learning • Building • Creating 🚀</b>
-</p>
-
-<p align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=SARAR-creation&label=Profile%20Views&color=38BDF8&style=flat"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSARAR-creation"
-    alt="Public Repositories"
-  />
-
-</p>
-
 
 <!-- ===================================================== -->
 <!--                       ABOUT ME                        -->
