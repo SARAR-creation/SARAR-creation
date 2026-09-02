@@ -9,7 +9,7 @@
   />
 </p>
 
-<!-- BIG INTRODUCTION TEXT -->
+<!-- STAGE 1: INTRODUCTION -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=80&lines=Hi+there%21+%F0%9F%91%8B;I%27m+S+M+SARAR+SAKIB"
@@ -17,7 +17,7 @@
   />
 </p>
 
-<!-- SMALLER PROFESSIONAL IDENTITY TEXT -->
+<!-- STAGE 2: PROFESSIONAL IDENTITY -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&height=70&lines=%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%94%AC+Researcher+%7C+%F0%9F%93%9A+A+Philomath+%7C+%F0%9F%8E%AF+Jack+of+All+Trades"
