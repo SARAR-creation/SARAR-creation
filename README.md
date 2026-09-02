@@ -9,19 +9,19 @@
   />
 </p>
 
-<h1 align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+👋+I'm+S+M+SARAR+SAKIB"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+there%21+%F0%9F%91%8B+I%27m+S+M+SARAR+SAKIB"
     alt="Typing SVG"
   />
-</h1>
+</p>
 
-<h3 align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=🚀+Aspiring+Software+Engineer;💻+Full-Stack+Web+Developer;🎓+Computer+Science+Student"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%9A%80+Aspiring+Software+Engineer;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8E%93+Computer+Science+Student"
     alt="Typing SVG"
   />
-</h3>
+</p>
 
 <p align="center">
   <b>Building • Learning • Creating 🚀</b>
