@@ -10,20 +10,11 @@
 </p>
 
 
-<!-- STAGE 1: BIG INTRODUCTION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=1800&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=75&lines=Hi+there%21+%F0%9F%91%8B;I%27m+S+M+SARAR+SAKIB"
-    alt="Introduction"
-  />
-</p>
-
-
-<!-- STAGE 2: SMALLER PROFESSIONAL IDENTITY -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1100&height=65&lines=%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%94%AC+Researcher+%7C+%F0%9F%93%9A+A+Philomath+%7C+%F0%9F%8E%AF+Jack+of+All+Trades"
-    alt="Professional Identity"
+    src="https://raw.githubusercontent.com/SARAR-creation/SARAR-creation/main/profile-intro.svg"
+    width="100%"
+    alt="S M Sarar Sakib Introduction"
   />
 </p>
 
