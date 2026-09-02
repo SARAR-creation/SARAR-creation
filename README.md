@@ -1,22 +1,43 @@
 <!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
+<!--               ANIMATED PROFILE HEADER                 -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm S M Sarar Sakib</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:38BDF8&height=3"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+👋+I'm+S+M+SARAR+SAKIB"
+    alt="Typing SVG"
+  />
+</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer | Full-Stack Web Developer | Computer Science Student
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=🚀+Aspiring+Software+Engineer;💻+Full-Stack+Web+Developer;🎓+Computer+Science+Student"
+    alt="Typing SVG"
+  />
 </h3>
 
 <p align="center">
-  I enjoy building modern web applications, solving problems, and continuously exploring new technologies.
+  <b>Building • Learning • Creating 🚀</b>
 </p>
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SARAR-creation&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=SARAR-creation&label=Profile%20Views&color=38BDF8&style=flat"
+    alt="Profile Views"
+  />
 
-  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSARAR-creation" alt="Public Repositories" />
+  <img
+    src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSARAR-creation"
+    alt="Public Repositories"
+  />
 
 </p>
 
