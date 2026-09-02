@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarar-creation" alt="sarar-creation" /></a> </p>
 
+- 🌱 I’m currently learning **Advance Database Management System, and Natural Language Processing**
+
 - 📫 How to reach me **sarar19sakib@gmail.com**
 
 - ⚡ Fun fact **I'm a very charming person**
