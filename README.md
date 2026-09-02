@@ -1,28 +1,324 @@
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
+
 <h1 align="center">Hi 👋, I'm S M Sarar Sakib</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarar-creation&label=Profile%20views&color=0e75b6&style=flat" alt="sarar-creation" /> </p>
+<h3 align="center">
+  Aspiring Software Engineer | Full-Stack Web Developer | Computer Science Student
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarar-creation" alt="sarar-creation" /></a> </p>
-
-- 🌱 I’m currently learning **Advance Database Management System, and Natural Language Processing**
-
-- 📫 How to reach me **sarar19sakib@gmail.com**
-
-- ⚡ Fun fact **I'm a very charming person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sarar_sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarar_sakib" height="30" width="40" /></a>
-<a href="https://fb.com/@sarar.qib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@sarar.qib" height="30" width="40" /></a>
-<a href="https://instagram.com/me1sarar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me1sarar" height="30" width="40" /></a>
+<p align="center">
+  I enjoy building modern web applications, solving problems, and continuously exploring new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarar-creation&show_icons=true&locale=en&layout=compact" alt="sarar-creation" /></p>
+  <img src="https://komarev.com/ghpvc/?username=SARAR-creation&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarar-creation&show_icons=true&locale=en" alt="sarar-creation" /></p>
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSARAR-creation" alt="Public Repositories" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarar-creation&" alt="sarar-creation" /></p>
+</p>
+
+
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student and aspiring **Software Engineer**
+- 💻 Interested in **Full-Stack Web Development and Software Engineering**
+- 🌱 Currently learning **Advanced Database Management System** and **Natural Language Processing**
+- 🚀 I enjoy building projects and exploring modern technologies
+- 📫 Reach me at **sarar19sakib@gmail.com**
+- ⚡ Fun fact: **I'm a very charming person 😄**
+
+
+<!-- ===================================================== -->
+<!--                    CONNECT WITH ME                    -->
+<!-- ===================================================== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com/sarar_sakib">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" alt="Twitter"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/sarar.qib">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" alt="Facebook"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/me1sarar">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" alt="Instagram"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SARAR-creation">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="35" alt="GitHub"/>
+</a>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+
+</p>
+
+
+### 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+
+</p>
+
+
+### ⚙️ Backend & Database
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+
+</p>
+
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                    GITHUB TROPHIES                    -->
+<!-- ===================================================== -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=SARAR-creation&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
+  alt="GitHub Trophies"
+/>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SARAR-creation&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAR-creation&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION STREAK                   -->
+<!-- ===================================================== -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=SARAR-creation&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--              CONTRIBUTION ACTIVITY GRAPH              -->
+<!-- ===================================================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SARAR-creation&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
+
+## 🚀 Featured Projects
+
+### 🎓 SAMS – Student Admission Management System
+
+<p align="center">
+
+<a href="https://github.com/SARAR-creation/SAMS-Project">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=SAMS-Project&theme=tokyonight&hide_border=true"
+  alt="SAMS Project"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+A full-stack Student Admission Management System built using
+<strong>NestJS, Next.js, PostgreSQL, TypeORM, and JWT Authentication.</strong>
+
+</p>
+
+<p align="center">
+
+Features include student registration, authentication, admission applications,
+admin approval/rejection, role-based access, OTP password reset,
+dashboard statistics, and Swagger API documentation.
+
+</p>
+
+
+### 💻 Other Projects
+
+<p align="center">
+
+<a href="https://github.com/SARAR-creation/Adv.-Prog.-in-Web-Tech.-React-">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=Adv.-Prog.-in-Web-Tech.-React-&theme=tokyonight&hide_border=true"
+  alt="React Project"
+/>
+
+</a>
+
+<a href="https://github.com/SARAR-creation/ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY&theme=tokyonight&hide_border=true"
+  alt="Advanced Programming in Web Technology"
+/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SARAR-creation/My_PHP_Project">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=My_PHP_Project&theme=tokyonight&hide_border=true"
+  alt="My PHP Project"
+/>
+
+</a>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                       QUOTE                           -->
+<!-- ===================================================== -->
+
+## 💭 Developer Quote
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+⭐ <b>If you like my work, consider giving a star to my repositories!</b>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"
+  width="100%"
+/>
+
+</p>
