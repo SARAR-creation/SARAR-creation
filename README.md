@@ -9,15 +9,24 @@
   />
 </p>
 
+<!-- BIG INTRODUCTION TEXT -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=80&lines=Hi+there%21+%F0%9F%91%8B;I%27m+S+M+SARAR+SAKIB;%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%94%AC+Researcher+%7C+%F0%9F%93%9A+A+Philomath+%7C+%F0%9F%8E%AF+Jack+of+All+Trades"
-    alt="S M Sarar Sakib Typing Animation"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=80&lines=Hi+there%21+%F0%9F%91%8B;I%27m+S+M+SARAR+SAKIB"
+    alt="S M Sarar Sakib Introduction"
+  />
+</p>
+
+<!-- SMALLER PROFESSIONAL IDENTITY TEXT -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&height=70&lines=%F0%9F%92%BB+Full-Stack+Dev+%7C+%F0%9F%94%AC+Researcher+%7C+%F0%9F%93%9A+Philomath+%7C+%F0%9F%8E%AF+Jack+of+All+Trades"
+    alt="Professional Identity"
   />
 </p>
 
 <p align="center">
-  <b>Exploring • Learning • Creating • Building 🚀</b>
+  <b>Exploring • Learning • Building 🚀</b>
 </p>
 
 <!-- ===================================================== -->
