@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs>
+<style>.big{font-family:Arial,sans-serif;font-weight:700;font-size:34px;fill:#38BDF8}.small{font-family:Arial,sans-serif;font-weight:700;font-size:21px;fill:#38BDF8}</style>
+<clipPath id="a"><rect x="0" y="0" width="0" height="70"><animate attributeName="width" from="0" to="1200" dur="2.5s" begin="0s" fill="freeze"/></rect></clipPath>
+<clipPath id="b"><rect x="0" y="70" width="0" height="70"><animate attributeName="width" from="0" to="1200" dur="3.2s" begin="2.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c"><rect x="0" y="135" width="0" height="80"><animate attributeName="width" from="0" to="1200" dur="6s" begin="5.7s" fill="freeze"/></rect></clipPath>
+</defs>
+<text class="big" x="600" y="52" text-anchor="middle" clip-path="url(#a)">Hi there! 👋</text>
+<text class="big" x="600" y="112" text-anchor="middle" clip-path="url(#b)">I'm S M SARAR SAKIB</text>
+<text class="small" x="600" y="178" text-anchor="middle" clip-path="url(#c)">💻 Full-Stack Dev | 🔬 Researcher | 📚 A Philomath | 🎯 Jack of All Trades</text>
+</svg>
