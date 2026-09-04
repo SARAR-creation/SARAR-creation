@@ -23,31 +23,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://twitter.com/sarar_sakib">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" alt="Twitter"/>
-</a>
+<a href="https://twitter.com/sarar_sakib"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" alt="Twitter"/> </a>
 
 &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/sarar.qib">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" alt="Facebook"/>
-</a>
+<a href="https://www.facebook.com/sarar.qib"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" alt="Facebook"/> </a>
 
 &nbsp;&nbsp;
 
-<a href="https://instagram.com/me1sarar">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" alt="Instagram"/>
-</a>
+<a href="https://instagram.com/me1sarar"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" alt="Instagram"/> </a>
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/SARAR-creation">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="35" alt="GitHub"/>
-</a>
-
+<a href="https://github.com/SARAR-creation"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="35" alt="GitHub"/> </a>
 </p>
-
 
 <!--                     TECH STACK                        -->
 
@@ -127,21 +116,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img
   src="https://github-profile-trophy.vercel.app/?username=SARAR-creation&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"
   alt="GitHub Trophies"
 />
-
 </p>
-
 
 <!--                   GITHUB ANALYTICS                    -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=SARAR-creation&show_icons=true&theme=tokyonight&hide_border=true"
   height="180"
@@ -153,7 +138,6 @@
   height="180"
   alt="Top Languages"
 />
-
 </p>
 
 
@@ -162,27 +146,22 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=SARAR-creation&theme=tokyonight&hide_border=true"
   alt="GitHub Contribution Streak"
 />
-
 </p>
-
 
 <!--              CONTRIBUTION ACTIVITY GRAPH              -->
 
 ## 📈 Contribution Activity
 
 <p align="center">
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=SARAR-creation&theme=tokyo-night&hide_border=true&area=true"
   width="100%"
   alt="GitHub Contribution Activity Graph"
 />
-
 </p>
 
 <!--                  FEATURED PROJECTS                    -->
@@ -192,96 +171,65 @@
 ### 🎓 SAMS – Student Admission Management System
 
 <p align="center">
-
 <a href="https://github.com/SARAR-creation/SAMS-Project">
-
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=SAMS-Project&theme=tokyonight&hide_border=true"
   alt="SAMS Project"
 />
-
-</a>
-
-</p>
+</a> </p>
 
 <p align="center">
-
 A full-stack Student Admission Management System built using
 <strong>NestJS, Next.js, PostgreSQL, TypeORM, and JWT Authentication.</strong>
-
 </p>
 
 <p align="center">
-
 Features include student registration, authentication, admission applications,
 admin approval/rejection, role-based access, OTP password reset,
 dashboard statistics, and Swagger API documentation.
-
 </p>
-
 
 ### 💻 Other Projects
 
 <p align="center">
-
 <a href="https://github.com/SARAR-creation/Adv.-Prog.-in-Web-Tech.-React-">
-
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=Adv.-Prog.-in-Web-Tech.-React-&theme=tokyonight&hide_border=true"
   alt="React Project"
-/>
-
-</a>
+/> </a>
 
 <a href="https://github.com/SARAR-creation/ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY">
-
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=ADVANCED-PROGRAMMING-IN-WEB-TECHNOLOGY&theme=tokyonight&hide_border=true"
   alt="Advanced Programming in Web Technology"
 />
-
-</a>
-
-</p>
+</a> </p>
 
 <p align="center">
-
 <a href="https://github.com/SARAR-creation/My_PHP_Project">
-
 <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=SARAR-creation&repo=My_PHP_Project&theme=tokyonight&hide_border=true"
   alt="My PHP Project"
 />
-
-</a>
-
-</p>
-
+</a> </p>
 
 <!--                       QUOTE                           -->
 
 ## 💭 Developer Quote
 
 <p align="center">
-
 <i>"First, solve the problem. Then, write the code."</i>
-
 </p>
-
 
 <!--                       FOOTER                          -->
 
 <p align="center">
-
 ⭐ <b>If you like my work, consider giving a star to my repositories!</b>
-
 </p>
 
 <p align="center">
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"
   width="100%"
 />
-
 </p>
